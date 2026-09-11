@@ -1,0 +1,6 @@
+.git
+**/node_modules
+server/.pgdata
+server/.env
+.playwright-mcp
+*.png

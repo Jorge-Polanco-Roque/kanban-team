@@ -1,0 +1,16 @@
+# dependencias
+**/node_modules/
+
+# entorno / secretos
+**/.env
+.env
+
+# base de datos local (PGlite)
+server/.pgdata/
+
+# artefactos de pruebas / capturas
+.playwright-mcp/
+*.png
+
+# sistema
+.DS_Store
